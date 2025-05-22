@@ -1,0 +1,12 @@
+[
+  { "id": 1, "title": "Game One", "image": "/assets/game1.jpg", "desc": "간단한 설명 1", "url": "/games/1" },
+  { "id": 2, "title": "Game Two", "image": "/assets/game2.jpg", "desc": "간단한 설명 2", "url": "/games/2" },
+  { "id": 3, "title": "Game Three", "image": "/assets/game3.jpg", "desc": "간단한 설명 3", "url": "/games/3" },
+  { "id": 4, "title": "Game Four", "image": "/assets/game4.jpg", "desc": "간단한 설명 4", "url": "/games/4" },
+  { "id": 5, "title": "Game Five", "image": "/assets/game5.jpg", "desc": "간단한 설명 5", "url": "/games/5" },
+  { "id": 6, "title": "Game Six", "image": "/assets/game6.jpg", "desc": "간단한 설명 6", "url": "/games/6" },
+  { "id": 7, "title": "Game Seven", "image": "/assets/game7.jpg", "desc": "간단한 설명 7", "url": "/games/7" },
+  { "id": 8, "title": "Game Eight", "image": "/assets/game8.jpg", "desc": "간단한 설명 8", "url": "/games/8" },
+  { "id": 9, "title": "Game Nine", "image": "/assets/game9.jpg", "desc": "간단한 설명 9", "url": "/games/9" },
+  { "id": 10, "title": "Game Ten", "image": "/assets/game10.jpg", "desc": "간단한 설명 10", "url": "/games/10" }
+]
